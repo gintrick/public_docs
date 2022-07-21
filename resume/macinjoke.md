@@ -20,7 +20,7 @@ Qiita | https://qiita.com/macinjoke
 
 主にWeb系の受託開発
 
-実績: https://gintrick.com/ > 実績
+実績: https://gintrick.com/#%E5%AE%9F%E7%B8%BE
 
 ### ドワンゴ(正社員)
 正社員期間: 2年
