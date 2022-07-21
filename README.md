@@ -1,0 +1,2 @@
+# public_docs
+GinTrick のパブリックなドキュメントを置く場所
