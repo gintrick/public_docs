@@ -86,5 +86,5 @@ web クライアントの開発も行っており現在の GinTrick では主に
 |                |                            |
 | -------------- | -------------------------- |
 | フロントエンド | TypeScript, React, Swift   |
-| バックエンド   | Node.js, flack(python) ,Go |
+| バックエンド   | Node.js, flask(python) ,Go |
 | クラウド       | AWS , GCP, Netlify         |
