@@ -66,3 +66,12 @@ Webフロントエンドの開発経験が豊富で、目的に合わせてWeb�
 バックエンド: Node.js
 
 クラウド: AWS (Amplifyなど), GCP (Firebaseなど), Netlify, Heroku
+
+## 個人開発
+
+- ライブラリ
+  - eslint-plugin-styled-components-varname : 自作ESLintプラグイン
+    - https://github.com/macinjoke/eslint-plugin-styled-components-varname 
+  - redux-firestore-hooks : ReduxとFirestoreの連携を助けるhooks
+    - https://github.com/macinjoke/redux-firestore-hooks
+
