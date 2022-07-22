@@ -72,7 +72,7 @@ web クライアントの開発も行っており現在の GinTrick では主に
 - AWS では、下記技術の経験あり
   - lambda
   - s3
-  - I AM
+  - IAM
   - fargate(ECS)
   - EC2
   - cloud function
