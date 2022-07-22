@@ -22,7 +22,7 @@
 | 副業 | 2021/05 - 2022/04 |
 
 - Web 系の受託開発
-  - 実績: https://gintrick.com/
+  - 実績: https://gintrick.com/#%E5%AE%9F%E7%B8%BE
 - 自社サービス作成
 
 ### 株式会社 サイバーエージェント
