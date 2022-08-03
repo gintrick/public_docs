@@ -65,7 +65,7 @@ Webフロントエンドの開発経験が豊富で、目的に合わせてWeb�
 
 バックエンド: Node.js
 
-クラウド: AWS (Amplifyなど), GCP (Firebaseなど), Netlify, Heroku
+クラウド: AWS (Amplifyなど), GCP (Firebaseなど), Netlify, Vercel, Heroku
 
 ## 個人開発
 
