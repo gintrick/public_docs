@@ -10,9 +10,15 @@
 | Twitter  | https://twitter.com/atsuo3938 |
 | Qiita    | https://qiita.com/atsuo1203   |
 
-## 経歴
+## 職務経歴
 
-最新順
+| 社名                          | 期間              | やったこと                         | 主な技術                |
+| ----------------------------- | ----------------- | ---------------------------------- | ----------------------- |
+| 株式会社 Pathee               | 2016/01 - 2017/12 | ios,社内ツール開発                 | swift, react.ts, python |
+| 株式会社 React                | 2018/01 - 2019/06 | LineBot 開発                       | angular, node, firebase |
+| 株式会社 サイバーエージェント | 2019/06 - 2020/03 | アメブロ、アプリボットでバイト     | ts, java, docker(sh)    |
+| 株式会社 サイバーエージェント | 2020/04 - 2022/04 | [正社員]タップルでバックエンド開発 | node, AWS               |
+| 株式会社 GinTrick             | 2021/05 - 現在    | [役員]代表取締役                   | react, ts               |
 
 ### 株式会社 GinTrick(役員)
 
@@ -38,16 +44,16 @@
 
 期間: 1.5 年
 
-- Bot管理アプリ、Engagebotのフロントエンド開発
+- Bot 管理アプリ、Engagebot のフロントエンド開発
   - angular.js + firebase にてフロント画面作成
-- Engagebotバックエンド開発
+- Engagebot バックエンド開発
   - node.js + mongoDb にて、バックエンドの処理やバッチ処理を作成
 
 ### 株式会社 Pathee
 
 期間: 2 年
 
-- iosアプリPatheeの開発
+- ios アプリ Pathee の開発
   - 地図情報を用いた map アプリケーションの開発
   - 使用言語は swift
 - 社内ツール開発
