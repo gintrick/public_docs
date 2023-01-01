@@ -13,7 +13,7 @@ Qiita | https://qiita.com/macinjoke
 ## 経歴
 最新順
 
-### 株式会社GinTrick(役員)
+### 株式会社GinTrick(取締役CTO)
 本業として: 2022/04 - 現在
 
 副業として: 2021/05 - 2022/04
@@ -65,13 +65,19 @@ Webフロントエンドの開発経験が豊富で、目的に合わせてWeb�
 
 バックエンド: Node.js
 
-クラウド: AWS (Amplifyなど), GCP (Firebaseなど), Netlify, Vercel, Heroku
+クラウド: AWS, GCP (Firebaseなど), Netlify, Vercel, Heroku
 
 ## 個人開発
 
+- Remosea: ビデオ通話サービス。リモート飲み会などで細々と個人的に利用している。
+  - https://remosea.app
+  - 機能: 部屋移動、部屋ランダム振り分け、マスター部屋からの全部屋への呼びかけ、画面共有、チャット、リアルタイム日程調整カレンダーUI、認証、非ログインユーザ対応
+  - 備考: 無料プラン枠で色々使っているので利用者が多くなってしまったらインフラ料金が上がるのではなく、**サービスがその月は使えなくなるという素晴らしい仕様**
+    - なので、便利に利用していただいても良いですが、使った感想を [@macinjoke](https://twitter.com/macinjoke) などに送っていただけるとうれしいです。
 - ライブラリ
   - eslint-plugin-styled-components-varname : 自作ESLintプラグイン
     - https://github.com/macinjoke/eslint-plugin-styled-components-varname 
   - redux-firestore-hooks : ReduxとFirestoreの連携を助けるhooks
     - https://github.com/macinjoke/redux-firestore-hooks
+
 
