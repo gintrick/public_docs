@@ -73,7 +73,7 @@ Webフロントエンドの開発経験が豊富で、目的に合わせてWeb�
   - https://remosea.app
   - 機能: 部屋移動、部屋ランダム振り分け、マスター部屋からの全部屋への呼びかけ、画面共有、チャット、リアルタイム日程調整カレンダーUI、認証、非ログインユーザ対応
   - 備考: 無料プラン枠で色々使っているので利用者が多くなってしまったらインフラ料金が上がるのではなく、**サービスがその月は使えなくなるという素晴らしい仕様**
-    - なので、便利に利用していただいても良いですが、使った感想を [@macinjoke](https://twitter.com/macinjoke) などに送っていただけるとうれしいです。
+    - なので、便利に利用していただいても良いですが、ヘビーに使う場合は感想を [@macinjoke](https://twitter.com/macinjoke) などに送っていただけるとうれしいです。
 - ライブラリ
   - eslint-plugin-styled-components-varname : 自作ESLintプラグイン
     - https://github.com/macinjoke/eslint-plugin-styled-components-varname 
