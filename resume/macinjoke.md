@@ -53,20 +53,20 @@ Qiita | https://qiita.com/macinjoke
 
 Webフロントエンドの開発経験が豊富で、目的に合わせてWebサービスの全体的な設計・実装・デザインが可能。
 
-- Next.jsを用いてパフォーマンスの高いサービスを素早く開発し安全に運用するのが得意。
+- Next.jsやRemixを用いてパフォーマンスの高いサービスを素早く開発し安全に運用するのが得意。
 - クラウドサービスはAWS, GCP, Netlify などの経験があり、状況に応じて使い分け可能。
 - ヘッドレスCMSを用いた開発経験もあり、管理画面が必要なアプリケーションの開発も得意。
 - デザイナと意思疎通しUI・UXを意識したページの作成。
 - クライアントと意思疎通しページデザインの作成。AI画像生成を用いた画像素材作成
-- バックエンドAPI開発やデータベース設計も小規模サービスで経験多数。
+- バックエンド開発やデータベース設計も小規模サービスで経験多数。
 
 得意な技術など
 
-フロントエンド: TypeScript, React, Next.js
+フロントエンド: TypeScript, React, Next.js, Remix
 
 バックエンド: Node.js
 
-クラウド: AWS, GCP (Firebaseなど), Netlify, Vercel, Heroku
+クラウド: AWS, GCP, Cloudflare, Firebase, Netlify, Vercel, Heroku
 
 ## 個人開発
 
