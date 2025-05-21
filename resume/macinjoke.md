@@ -7,7 +7,6 @@
 氏名 | 牧野 駿二(まきの しゅんじ) |
 生年月日 | 1995/05 |
 GitHub | https://github.com/macinjoke
-Twitter | https://twitter.com/macinjoke
 Qiita | https://qiita.com/macinjoke
 
 ## 経歴
